@@ -1,0 +1,768 @@
+,ABSPATH,LABEL,N_KEYWORDS,KEYWORDS
+0,file1,GEOMECH,2,"['fist', 'effective stress']"
+1,file2,GEOMECH,14,"['ed', 'rock strength', 'stress', 'borehole stability', 'stabor', 'borehole stability', 'borehole stability', 'fg', 'stress', 'borehole stability', 'fg', 'stress', 'fg', 'fg']"
+2,file3,CHECK MANUALLY,0,
+3,file4,LOT,1,['fit']
+4,file5,GEOMECH,21,"['stress', 'failure stress', 'yield', 'stress', 'compaction', 'elastic', 'inelastic', 'deformation', 'stress', 'compaction', 'stress', 'effective horizontal stress', 'effective vertical stress', 'stress', 'biot', 'effective stress', 'stress', 'effective stress', 'stress', 'compaction', 'compaction']"
+5,file6,GEOMECH,21,"['stress', 'failure stress', 'yield', 'stress', 'compaction', 'elastic', 'inelastic', 'deformation', 'stress', 'compaction', 'stress', 'effective horizontal stress', 'effective vertical stress', 'stress', 'biot', 'effective stress', 'stress', 'effective stress', 'stress', 'compaction', 'compaction']"
+6,file7,GEOMECH,11,"['stress', 'stress', 'stress', 'stress', 'effective horizontal stress', 'effective vertical stress', 'elastic', 'stress', 'elastic', 'geomec', 'compaction']"
+7,file8,GEOMECH,14,"['stress', 'differential stress', 'stress', 'elastic', 'differential stress', 'stress', 'stress', 'stress', 'stress', 'stress', 'elastic', 'stress', 'stress', 'stress']"
+8,file9,DCM,9,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+9,file10,DCM,9,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+10,file11,DCM,9,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+11,file12,DCM,9,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+12,file13,DCM,9,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+13,file14,DCM,9,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+14,file15,LOT,5,"['lot', 'xlot', 'lot', 'xlot', 'lot']"
+15,file16,GEOMECH,1,['cm']
+16,file17,GEOMECH,3,"['stabor', 'stabor', 'stabor']"
+17,file18,GEOMECH,5,"['geomec', 'geomec', 'geomec', 'geomec', 'geomec']"
+18,file19,GEOMECH,12,"['geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec', 'geomec']"
+19,file20,GEOMECH,1,['geomec']
+20,file21,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+21,file22,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+22,file23,GEOMECH,2,"['fracture gradient', 'fracture propagation']"
+23,file24,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+24,file25,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+25,file26,CHECK MANUALLY,0,
+26,file27,CHECK MANUALLY,0,
+27,file28,CHECK MANUALLY,0,
+28,file29,CHECK MANUALLY,0,
+29,file30,CHECK MANUALLY,0,
+30,file31,CHECK MANUALLY,0,
+31,file32,CHECK MANUALLY,0,
+32,file33,CHECK MANUALLY,0,
+33,file34,CHECK MANUALLY,0,
+34,file35,CHECK MANUALLY,0,
+35,file36,CHECK MANUALLY,0,
+36,file37,CHECK MANUALLY,0,
+37,file38,CHECK MANUALLY,0,
+38,file39,CHECK MANUALLY,0,
+39,file40,LOT,1,['leak off']
+40,file41,CHECK MANUALLY,0,
+41,file42,CHECK MANUALLY,0,
+42,file43,CHECK MANUALLY,0,
+43,file44,CHECK MANUALLY,0,
+44,file45,CHECK MANUALLY,0,
+45,file46,CHECK MANUALLY,0,
+46,file47,LOT,1,['leak off']
+47,file48,CHECK MANUALLY,0,
+48,file49,CHECK MANUALLY,0,
+49,file50,CHECK MANUALLY,0,
+50,file51,CHECK MANUALLY,0,
+51,file52,CHECK MANUALLY,0,
+52,file53,CHECK MANUALLY,0,
+53,file54,CHECK MANUALLY,0,
+54,file55,CHECK MANUALLY,0,
+55,file56,CHECK MANUALLY,0,
+56,file57,CHECK MANUALLY,0,
+57,file58,CHECK MANUALLY,0,
+58,file59,CHECK MANUALLY,0,
+59,file60,CHECK MANUALLY,0,
+60,file61,CHECK MANUALLY,0,
+61,file62,CHECK MANUALLY,0,
+62,file63,CHECK MANUALLY,0,
+63,file64,CHECK MANUALLY,0,
+64,file65,CHECK MANUALLY,0,
+65,file66,CHECK MANUALLY,0,
+66,file67,CHECK MANUALLY,0,
+67,file68,CHECK MANUALLY,0,
+68,file69,CHECK MANUALLY,0,
+69,file70,CHECK MANUALLY,0,
+70,file71,CHECK MANUALLY,0,
+71,file72,GEOMECH,2,"['cohesion', 'cohesion']"
+72,file73,CHECK MANUALLY,0,
+73,file74,CHECK MANUALLY,0,
+74,file75,CHECK MANUALLY,0,
+75,file76,CHECK MANUALLY,0,
+76,file77,WELLS,1,['cal']
+77,file78,CHECK MANUALLY,0,
+78,file79,CHECK MANUALLY,0,
+79,file80,CHECK MANUALLY,0,
+80,file81,CHECK MANUALLY,0,
+81,file82,CHECK MANUALLY,0,
+82,file83,CHECK MANUALLY,0,
+83,file84,CHECK MANUALLY,0,
+84,file85,CHECK MANUALLY,0,
+85,file86,CHECK MANUALLY,0,
+86,file87,CHECK MANUALLY,0,
+87,file88,CHECK MANUALLY,0,
+88,file89,CHECK MANUALLY,0,
+89,file90,CHECK MANUALLY,0,
+90,file91,CHECK MANUALLY,0,
+91,file92,CHECK MANUALLY,0,
+92,file93,CHECK MANUALLY,0,
+93,file94,CHECK MANUALLY,0,
+94,file95,CHECK MANUALLY,0,
+95,file96,CHECK MANUALLY,0,
+96,file97,CHECK MANUALLY,0,
+97,file98,CHECK MANUALLY,0,
+98,file99,CHECK MANUALLY,0,
+99,file100,CHECK MANUALLY,0,
+100,file101,CHECK MANUALLY,0,
+101,file102,CHECK MANUALLY,0,
+102,file103,CHECK MANUALLY,0,
+103,file104,CHECK MANUALLY,0,
+104,file105,CHECK MANUALLY,0,
+105,file106,CHECK MANUALLY,0,
+106,file107,CHECK MANUALLY,0,
+107,file108,CHECK MANUALLY,0,
+108,file109,CHECK MANUALLY,0,
+109,file110,CHECK MANUALLY,0,
+110,file111,CHECK MANUALLY,0,
+111,file112,CHECK MANUALLY,0,
+112,file113,CHECK MANUALLY,0,
+113,file114,CHECK MANUALLY,0,
+114,file115,WELLS,1,['depr']
+115,file116,WELLS,1,['depr']
+116,file117,WELLS,1,['depr']
+117,file118,WELLS,1,['depr']
+118,file119,CHECK MANUALLY,0,
+119,file120,CHECK MANUALLY,0,
+120,file121,CHECK MANUALLY,0,
+121,file122,WELLS,1,['gr']
+122,file123,CHECK MANUALLY,0,
+123,file124,CHECK MANUALLY,0,
+124,file125,CHECK MANUALLY,0,
+125,file126,WELLS,1,['gr']
+126,file127,CHECK MANUALLY,0,
+127,file128,CHECK MANUALLY,0,
+128,file129,CHECK MANUALLY,0,
+129,file130,CHECK MANUALLY,0,
+130,file131,CHECK MANUALLY,0,
+131,file132,CHECK MANUALLY,0,
+132,file133,CHECK MANUALLY,0,
+133,file134,CHECK MANUALLY,0,
+134,file135,CHECK MANUALLY,0,
+135,file136,CHECK MANUALLY,0,
+136,file137,CHECK MANUALLY,0,
+137,file138,CHECK MANUALLY,0,
+138,file139,CHECK MANUALLY,0,
+139,file140,CHECK MANUALLY,0,
+140,file141,CHECK MANUALLY,0,
+141,file142,CHECK MANUALLY,0,
+142,file143,CHECK MANUALLY,0,
+143,file144,CHECK MANUALLY,0,
+144,file145,CHECK MANUALLY,0,
+145,file146,CHECK MANUALLY,0,
+146,file147,CHECK MANUALLY,0,
+147,file148,CHECK MANUALLY,0,
+148,file149,CHECK MANUALLY,0,
+149,file150,CHECK MANUALLY,0,
+150,file151,CHECK MANUALLY,0,
+151,file152,CHECK MANUALLY,0,
+152,file153,CHECK MANUALLY,0,
+153,file154,CHECK MANUALLY,0,
+154,file155,CHECK MANUALLY,0,
+155,file156,CHECK MANUALLY,0,
+156,file157,CHECK MANUALLY,0,
+157,file158,CHECK MANUALLY,0,
+158,file159,CHECK MANUALLY,0,
+159,file160,CHECK MANUALLY,0,
+160,file161,CHECK MANUALLY,0,
+161,file162,CHECK MANUALLY,0,
+162,file163,CHECK MANUALLY,0,
+163,file164,CHECK MANUALLY,0,
+164,file165,CHECK MANUALLY,0,
+165,file166,CHECK MANUALLY,0,
+166,file167,CHECK MANUALLY,0,
+167,file168,CHECK MANUALLY,0,
+168,file169,CHECK MANUALLY,0,
+169,file170,CHECK MANUALLY,0,
+170,file171,CHECK MANUALLY,0,
+171,file172,CHECK MANUALLY,0,
+172,file173,CHECK MANUALLY,0,
+173,file174,LOT,2,"['fit', 'fit']"
+174,file175,GEOMECH,2,"['fracture gradient', 'fracture gradient']"
+175,file176,CHECK MANUALLY,0,
+176,file177,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+177,file178,CHECK MANUALLY,0,
+178,file179,WELLS,1,['gr']
+179,file180,CHECK MANUALLY,0,
+180,file181,CHECK MANUALLY,0,
+181,file182,CHECK MANUALLY,0,
+182,file183,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+183,file184,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+184,file185,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+185,file186,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+186,file187,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+187,file188,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+188,file189,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+189,file190,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+190,file191,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+191,file192,WELLS,4,"['cal', 'cal', 'gr', 'gr']"
+192,file193,CHECK MANUALLY,0,
+193,file194,WELLS,1,['gr']
+194,file195,CHECK MANUALLY,0,
+195,file196,CHECK MANUALLY,0,
+196,file197,WELLS,1,['gr']
+197,file198,CHECK MANUALLY,0,
+198,file199,CHECK MANUALLY,0,
+199,file200,CHECK MANUALLY,0,
+200,file201,CHECK MANUALLY,0,
+201,file202,CHECK MANUALLY,0,
+202,file203,CHECK MANUALLY,0,
+203,file204,CHECK MANUALLY,0,
+204,file205,CHECK MANUALLY,0,
+205,file206,CHECK MANUALLY,0,
+206,file207,CHECK MANUALLY,0,
+207,file208,CHECK MANUALLY,0,
+208,file209,CHECK MANUALLY,0,
+209,file210,CHECK MANUALLY,0,
+210,file211,CHECK MANUALLY,0,
+211,file212,CHECK MANUALLY,0,
+212,file213,CHECK MANUALLY,0,
+213,file214,CHECK MANUALLY,0,
+214,file215,CHECK MANUALLY,0,
+215,file216,CHECK MANUALLY,0,
+216,file217,CHECK MANUALLY,0,
+217,file218,WELLS,1,['gr']
+218,file219,CHECK MANUALLY,0,
+219,file220,WELLS,1,['gr']
+220,file221,CHECK MANUALLY,0,
+221,file222,WELLS,8,"['spud date', 'cal', 'caliper', 'gr', 'gamma', 'neutron', 'resistivity', 'sonic']"
+222,file223,DCM,2,"['dielectric constant measurements', 'sa']"
+223,file224,DCM,2,"['dielectric constant measurements', 'sa']"
+224,file225,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+225,file226,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+226,file227,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+227,file228,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+228,file229,WELLS,6,"['gamma', 'gamma', 'resistivity', 'resistivity', 'resistivity', 'resistivity']"
+229,file230,WELLS,3,"['resistivity', 'resistivity', 'gamma']"
+230,file231,WELLS,7,"['gamma', 'gamma', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'neutron']"
+231,file232,WELLS,7,"['gamma', 'gamma', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'neutron']"
+232,file233,CHECK MANUALLY,0,
+233,file234,WELLS,2,"['northing', 'easting']"
+234,file235,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+235,file236,CHECK MANUALLY,0,
+236,file237,CHECK MANUALLY,0,
+237,file238,CHECK MANUALLY,0,
+238,file239,CHECK MANUALLY,0,
+239,file240,CHECK MANUALLY,0,
+240,file241,CHECK MANUALLY,0,
+241,file242,DCM,1,['surface area']
+242,file243,CHECK MANUALLY,0,
+243,file244,GEOMECH,2,"['shmin', 'shmin']"
+244,file245,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+245,file246,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+246,file247,DCM,1,['sa']
+247,file248,DCM,1,['sa']
+248,file249,DCM,1,['sa']
+249,file250,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+250,file251,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+251,file252,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+252,file253,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+253,file254,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+254,file255,DCM,1,['sa']
+255,file256,WELLS,69,"['gr', 'gr', 'gr', 'gamma', 'gr', 'gamma', 'gr', 'azimuth', 'caliper', 'resistivity', 'gr', 'caliper', 'mud type', 'latitude ', 'latitude ', 'longitude', 'longitude', 'neutron', 'inclination', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'azimuth', 'gamma', 'gamma', 'resistivity', 'caliper', 'caliper', 'caliper', 'azimuth', 'azimuth', 'gamma', 'gamma', 'inclination', 'inclination', 'gr', 'gamma', 'azimuth', 'azimuth', 'azimuth', 'gamma', 'azimuth', 'azimuth', 'azimuth', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'caliper', 'caliper', 'gamma', 'gamma', 'gr']"
+256,file257,WELLS,69,"['gr', 'gr', 'gr', 'gamma', 'gr', 'gamma', 'gr', 'azimuth', 'caliper', 'resistivity', 'gr', 'caliper', 'mud type', 'latitude ', 'latitude ', 'longitude', 'longitude', 'neutron', 'inclination', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'azimuth', 'gamma', 'gamma', 'resistivity', 'caliper', 'caliper', 'caliper', 'azimuth', 'azimuth', 'gamma', 'gamma', 'inclination', 'inclination', 'gr', 'gamma', 'azimuth', 'azimuth', 'azimuth', 'gamma', 'azimuth', 'azimuth', 'azimuth', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'resistivity', 'caliper', 'caliper', 'gamma', 'gamma', 'gr']"
+257,file258,DCM,2,"['dielectric constant measurements', 'sa']"
+258,file259,DCM,2,"['dielectric constant measurements', 'sa']"
+259,file260,CHECK MANUALLY,0,
+260,file261,WELLS,2,"['latitude ', 'longitude']"
+261,file262,WELLS,2,"['res', 'res']"
+262,file263,WELLS,2,"['inclination', 'azimuth']"
+263,file264,WELLS,3,"['den', 'latitude ', 'longitude']"
+264,file265,CHECK MANUALLY,0,
+265,file266,WELLS,3,"['den', 'latitude ', 'longitude']"
+266,file267,WELLS,2,"['latitude ', 'longitude']"
+267,file268,WELLS,3,"['den', 'latitude ', 'longitude']"
+268,file269,WELLS,1,['den']
+269,file270,WELLS,1,['den']
+270,file271,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+271,file272,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+272,file273,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+273,file274,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+274,file275,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+275,file276,CHECK MANUALLY,0,
+276,file277,WELLS,24,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+277,file278,WELLS,52,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+278,file279,WELLS,52,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+279,file280,WELLS,60,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+280,file281,WELLS,16,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+281,file282,WELLS,56,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+282,file283,WELLS,32,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+283,file284,WELLS,20,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+284,file285,WELLS,20,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+285,file286,WELLS,4,"['easting', 'northing', 'easting', 'northing']"
+286,file287,WELLS,28,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+287,file288,WELLS,32,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+288,file289,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+289,file290,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+290,file291,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+291,file292,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+292,file293,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+293,file294,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+294,file295,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+295,file296,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+296,file297,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+297,file298,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+298,file299,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+299,file300,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+300,file301,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+301,file302,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+302,file303,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+303,file304,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+304,file305,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+305,file306,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+306,file307,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+307,file308,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+308,file309,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+309,file310,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+310,file311,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+311,file312,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+312,file313,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+313,file314,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+314,file315,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+315,file316,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+316,file317,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+317,file318,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+318,file319,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+319,file320,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+320,file321,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+321,file322,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+322,file323,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+323,file324,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+324,file325,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+325,file326,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+326,file327,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+327,file328,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+328,file329,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+329,file330,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+330,file331,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+331,file332,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+332,file333,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+333,file334,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+334,file335,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+335,file336,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+336,file337,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+337,file338,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+338,file339,WELLS,5,"['latitude ', 'longitude', 'spud date', 'longitude', 'latitude ']"
+339,file340,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+340,file341,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+341,file342,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+342,file343,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+343,file344,WELLS,8,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude']"
+344,file345,CHECK MANUALLY,0,
+345,file346,CHECK MANUALLY,0,
+346,file347,CHECK MANUALLY,0,
+347,file348,CHECK MANUALLY,0,
+348,file349,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+349,file350,CHECK MANUALLY,0,
+350,file351,CHECK MANUALLY,0,
+351,file352,DCM,1,['sa']
+352,file353,CHECK MANUALLY,0,
+353,file354,CHECK MANUALLY,0,
+354,file355,CHECK MANUALLY,0,
+355,file356,DCM,1,['sa']
+356,file357,CHECK MANUALLY,0,
+357,file358,CHECK MANUALLY,0,
+358,file359,CHECK MANUALLY,0,
+359,file360,CHECK MANUALLY,0,
+360,file361,DCM,1,['sa']
+361,file362,CHECK MANUALLY,0,
+362,file363,DCM,1,['sa']
+363,file364,CHECK MANUALLY,0,
+364,file365,CHECK MANUALLY,0,
+365,file366,CHECK MANUALLY,0,
+366,file367,DCM,1,['sa']
+367,file368,DCM,1,['sa']
+368,file369,CHECK MANUALLY,0,
+369,file370,CHECK MANUALLY,0,
+370,file371,CHECK MANUALLY,0,
+371,file372,CHECK MANUALLY,0,
+372,file373,CHECK MANUALLY,0,
+373,file374,CHECK MANUALLY,0,
+374,file375,DCM,1,['sa']
+375,file376,CHECK MANUALLY,0,
+376,file377,CHECK MANUALLY,0,
+377,file378,CHECK MANUALLY,0,
+378,file379,CHECK MANUALLY,0,
+379,file380,CHECK MANUALLY,0,
+380,file381,CHECK MANUALLY,0,
+381,file382,CHECK MANUALLY,0,
+382,file383,CHECK MANUALLY,0,
+383,file384,CHECK MANUALLY,0,
+384,file385,CHECK MANUALLY,0,
+385,file386,CHECK MANUALLY,0,
+386,file387,CHECK MANUALLY,0,
+387,file388,CHECK MANUALLY,0,
+388,file389,CHECK MANUALLY,0,
+389,file390,CHECK MANUALLY,0,
+390,file391,CHECK MANUALLY,0,
+391,file392,CHECK MANUALLY,0,
+392,file393,CHECK MANUALLY,0,
+393,file394,WELLS,2,"['northing', 'easting']"
+394,file395,CHECK MANUALLY,0,
+395,file396,DCM,18,"['sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa', 'sa']"
+396,file397,CHECK MANUALLY,0,
+397,file398,CHECK MANUALLY,0,
+398,file399,CHECK MANUALLY,0,
+399,file400,CHECK MANUALLY,0,
+400,file401,WELLS,1,['res']
+401,file402,WELLS,1,['gamma']
+402,file403,WELLS,1,['neutron']
+403,file404,CHECK MANUALLY,0,
+404,file405,WELLS,1,['cali']
+405,file406,CHECK MANUALLY,0,
+406,file407,CHECK MANUALLY,0,
+407,file408,WELLS,1,['gamma']
+408,file409,WELLS,1,['neutron']
+409,file410,WELLS,1,['sonic']
+410,file411,WELLS,1,['cali']
+411,file412,CHECK MANUALLY,0,
+412,file413,CHECK MANUALLY,0,
+413,file414,WELLS,1,['gamma']
+414,file415,WELLS,1,['neutron']
+415,file416,CHECK MANUALLY,0,
+416,file417,CHECK MANUALLY,0,
+417,file418,WELLS,1,['cali']
+418,file419,CHECK MANUALLY,0,
+419,file420,CHECK MANUALLY,0,
+420,file421,WELLS,1,['gamma']
+421,file422,WELLS,1,['neutron']
+422,file423,CHECK MANUALLY,0,
+423,file424,WELLS,1,['cali']
+424,file425,CHECK MANUALLY,0,
+425,file426,CHECK MANUALLY,0,
+426,file427,WELLS,1,['gamma']
+427,file428,WELLS,1,['neutron']
+428,file429,CHECK MANUALLY,0,
+429,file430,WELLS,1,['cali']
+430,file431,CHECK MANUALLY,0,
+431,file432,CHECK MANUALLY,0,
+432,file433,WELLS,1,['gamma']
+433,file434,WELLS,1,['neutron']
+434,file435,WELLS,1,['sonic']
+435,file436,WELLS,1,['cali']
+436,file437,WELLS,1,['gamma']
+437,file438,WELLS,1,['sonic']
+438,file439,WELLS,1,['cali']
+439,file440,WELLS,1,['gamma']
+440,file441,WELLS,1,['sonic']
+441,file442,CHECK MANUALLY,0,
+442,file443,CHECK MANUALLY,0,
+443,file444,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+444,file445,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+445,file446,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+446,file447,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+447,file448,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+448,file449,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+449,file450,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+450,file451,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+451,file452,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+452,file453,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+453,file454,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+454,file455,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+455,file456,CHECK MANUALLY,0,
+456,file457,CHECK MANUALLY,0,
+457,file458,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+458,file459,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+459,file460,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+460,file461,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+461,file462,CHECK MANUALLY,0,
+462,file463,CHECK MANUALLY,0,
+463,file464,CHECK MANUALLY,0,
+464,file465,CHECK MANUALLY,0,
+465,file466,WELLS,1,['cali']
+466,file467,WELLS,1,['cali']
+467,file468,WELLS,1,['cali']
+468,file469,CHECK MANUALLY,0,
+469,file470,CHECK MANUALLY,0,
+470,file471,WELLS,1,['cali']
+471,file472,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+472,file473,GEOMECH,1,['obg']
+473,file474,CHECK MANUALLY,0,
+474,file475,CHECK MANUALLY,0,
+475,file476,CHECK MANUALLY,0,
+476,file477,CHECK MANUALLY,0,
+477,file478,WELLS,2,"['cali', 'gr']"
+478,file479,CHECK MANUALLY,0,
+479,file480,CHECK MANUALLY,0,
+480,file481,CHECK MANUALLY,0,
+481,file482,CHECK MANUALLY,0,
+482,file483,WELLS,2,"['northing', 'easting']"
+483,file484,CHECK MANUALLY,0,
+484,file485,CHECK MANUALLY,0,
+485,file486,WELLS,2,"['cali', 'cali']"
+486,file487,GEOMECH,1,['pr']
+487,file488,WELLS,1,['cali']
+488,file489,WELLS,2,"['den', 'gr']"
+489,file490,CHECK MANUALLY,0,
+490,file491,CHECK MANUALLY,0,
+491,file492,CHECK MANUALLY,0,
+492,file493,CHECK MANUALLY,0,
+493,file494,WELLS,2,"['den', 'gr']"
+494,file495,CHECK MANUALLY,0,
+495,file496,CHECK MANUALLY,0,
+496,file497,CHECK MANUALLY,0,
+497,file498,CHECK MANUALLY,0,
+498,file499,CHECK MANUALLY,0,
+499,file500,CHECK MANUALLY,0,
+500,file501,CHECK MANUALLY,0,
+501,file502,CHECK MANUALLY,0,
+502,file503,CHECK MANUALLY,0,
+503,file504,CHECK MANUALLY,0,
+504,file505,CHECK MANUALLY,0,
+505,file506,CHECK MANUALLY,0,
+506,file507,CHECK MANUALLY,0,
+507,file508,CHECK MANUALLY,0,
+508,file509,CHECK MANUALLY,0,
+509,file510,CHECK MANUALLY,0,
+510,file511,CHECK MANUALLY,0,
+511,file512,CHECK MANUALLY,0,
+512,file513,CHECK MANUALLY,0,
+513,file514,CHECK MANUALLY,0,
+514,file515,CHECK MANUALLY,0,
+515,file516,CHECK MANUALLY,0,
+516,file517,CHECK MANUALLY,0,
+517,file518,CHECK MANUALLY,0,
+518,file519,CHECK MANUALLY,0,
+519,file520,CHECK MANUALLY,0,
+520,file521,CHECK MANUALLY,0,
+521,file522,CHECK MANUALLY,0,
+522,file523,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+523,file524,CHECK MANUALLY,0,
+524,file525,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+525,file526,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+526,file527,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+527,file528,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+528,file529,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+529,file530,CHECK MANUALLY,0,
+530,file531,CHECK MANUALLY,0,
+531,file532,CHECK MANUALLY,0,
+532,file533,CHECK MANUALLY,0,
+533,file534,CHECK MANUALLY,0,
+534,file535,CHECK MANUALLY,0,
+535,file536,CHECK MANUALLY,0,
+536,file537,CHECK MANUALLY,0,
+537,file538,CHECK MANUALLY,0,
+538,file539,CHECK MANUALLY,0,
+539,file540,CHECK MANUALLY,0,
+540,file541,CHECK MANUALLY,0,
+541,file542,CHECK MANUALLY,0,
+542,file543,CHECK MANUALLY,0,
+543,file544,CHECK MANUALLY,0,
+544,file545,CHECK MANUALLY,0,
+545,file546,CHECK MANUALLY,0,
+546,file547,CHECK MANUALLY,0,
+547,file548,CHECK MANUALLY,0,
+548,file549,CHECK MANUALLY,0,
+549,file550,CHECK MANUALLY,0,
+550,file551,CHECK MANUALLY,0,
+551,file552,CHECK MANUALLY,0,
+552,file553,WELLS,8,"['azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth']"
+553,file554,WELLS,8,"['azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth']"
+554,file555,WELLS,32,"['azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth']"
+555,file556,WELLS,2,"['gr', 'sonic']"
+556,file557,WELLS,1,['depr']
+557,file558,CHECK MANUALLY,0,
+558,file559,CHECK MANUALLY,0,
+559,file560,CHECK MANUALLY,0,
+560,file561,CHECK MANUALLY,0,
+561,file562,CHECK MANUALLY,0,
+562,file563,CHECK MANUALLY,0,
+563,file564,CHECK MANUALLY,0,
+564,file565,CHECK MANUALLY,0,
+565,file566,CHECK MANUALLY,0,
+566,file567,CHECK MANUALLY,0,
+567,file568,CHECK MANUALLY,0,
+568,file569,CHECK MANUALLY,0,
+569,file570,CHECK MANUALLY,0,
+570,file571,CHECK MANUALLY,0,
+571,file572,CHECK MANUALLY,0,
+572,file573,CHECK MANUALLY,0,
+573,file574,CHECK MANUALLY,0,
+574,file575,CHECK MANUALLY,0,
+575,file576,CHECK MANUALLY,0,
+576,file577,CHECK MANUALLY,0,
+577,file578,CHECK MANUALLY,0,
+578,file579,CHECK MANUALLY,0,
+579,file580,CHECK MANUALLY,0,
+580,file581,CHECK MANUALLY,0,
+581,file582,CHECK MANUALLY,0,
+582,file583,CHECK MANUALLY,0,
+583,file584,CHECK MANUALLY,0,
+584,file585,CHECK MANUALLY,0,
+585,file586,CHECK MANUALLY,0,
+586,file587,CHECK MANUALLY,0,
+587,file588,CHECK MANUALLY,0,
+588,file589,CHECK MANUALLY,0,
+589,file590,CHECK MANUALLY,0,
+590,file591,CHECK MANUALLY,0,
+591,file592,CHECK MANUALLY,0,
+592,file593,CHECK MANUALLY,0,
+593,file594,CHECK MANUALLY,0,
+594,file595,CHECK MANUALLY,0,
+595,file596,CHECK MANUALLY,0,
+596,file597,CHECK MANUALLY,0,
+597,file598,CHECK MANUALLY,0,
+598,file599,CHECK MANUALLY,0,
+599,file600,WELLS,1,['den']
+600,file601,WELLS,1,['gr']
+601,file602,CHECK MANUALLY,0,
+602,file603,CHECK MANUALLY,0,
+603,file604,WELLS,1,['den']
+604,file605,WELLS,1,['gr']
+605,file606,DCM,1,['dcm']
+606,file607,CHECK MANUALLY,0,
+607,file608,CHECK MANUALLY,0,
+608,file609,WELLS,1,['cali']
+609,file610,CHECK MANUALLY,0,
+610,file611,CHECK MANUALLY,0,
+611,file612,CHECK MANUALLY,0,
+612,file613,WELLS,1,['cali']
+613,file614,CHECK MANUALLY,0,
+614,file615,CHECK MANUALLY,0,
+615,file616,CHECK MANUALLY,0,
+616,file617,WELLS,1,['cali']
+617,file618,CHECK MANUALLY,0,
+618,file619,CHECK MANUALLY,0,
+619,file620,CHECK MANUALLY,0,
+620,file621,WELLS,1,['cali']
+621,file622,CHECK MANUALLY,0,
+622,file623,CHECK MANUALLY,0,
+623,file624,CHECK MANUALLY,0,
+624,file625,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+625,file626,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+626,file627,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+627,file628,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+628,file629,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+629,file630,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+630,file631,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+631,file632,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+632,file633,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+633,file634,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+634,file635,CHECK MANUALLY,0,
+635,file636,CHECK MANUALLY,0,
+636,file637,CHECK MANUALLY,0,
+637,file638,WELLS,1,['cali']
+638,file639,WELLS,1,['cali']
+639,file640,WELLS,2,"['cali', 'gr']"
+640,file641,WELLS,4,"['den', 'cali', 'gr', 'neu']"
+641,file642,WELLS,3,"['cal', 'gr', 'res']"
+642,file643,WELLS,11,"['latitude ', 'longitude', 'den', 'den', 'gr', 'gr', 'neu', 'neu', 'den', 'gr', 'neu']"
+643,file644,WELLS,2,"['latitude ', 'longitude']"
+644,file645,WELLS,2,"['latitude ', 'longitude']"
+645,file646,WELLS,2,"['latitude ', 'longitude']"
+646,file647,CHECK MANUALLY,0,
+647,file648,CHECK MANUALLY,0,
+648,file649,CHECK MANUALLY,0,
+649,file650,CHECK MANUALLY,0,
+650,file651,CHECK MANUALLY,0,
+651,file652,CHECK MANUALLY,0,
+652,file653,CHECK MANUALLY,0,
+653,file654,CHECK MANUALLY,0,
+654,file655,CHECK MANUALLY,0,
+655,file656,CHECK MANUALLY,0,
+656,file657,CHECK MANUALLY,0,
+657,file658,CHECK MANUALLY,0,
+658,file659,CHECK MANUALLY,0,
+659,file660,CHECK MANUALLY,0,
+660,file661,CHECK MANUALLY,0,
+661,file662,CHECK MANUALLY,0,
+662,file663,CHECK MANUALLY,0,
+663,file664,CHECK MANUALLY,0,
+664,file665,CHECK MANUALLY,0,
+665,file666,CHECK MANUALLY,0,
+666,file667,CHECK MANUALLY,0,
+667,file668,CHECK MANUALLY,0,
+668,file669,CHECK MANUALLY,0,
+669,file670,CHECK MANUALLY,0,
+670,file671,CHECK MANUALLY,0,
+671,file672,CHECK MANUALLY,0,
+672,file673,CHECK MANUALLY,0,
+673,file674,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+674,file675,WELLS,8,"['northing', 'easting', 'cali', 'cali', 'northing', 'easting', 'cali', 'cali']"
+675,file676,CHECK MANUALLY,0,
+676,file677,WELLS,8,"['azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth']"
+677,file678,WELLS,8,"['azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth']"
+678,file679,WELLS,32,"['azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth', 'azimuth', 'northing', 'easting', 'azimuth']"
+679,file680,WELLS,2,"['gr', 'sonic']"
+680,file681,WELLS,6,"['cali', 'cali', 'den', 'den', 'gr', 'gr']"
+681,file682,CHECK MANUALLY,0,
+682,file683,WELLS,8,"['gr', 'gr', 'gr', 'caliper', 'caliper', 'gr', 'caliper', 'caliper']"
+683,file684,WELLS,9,"['gr', 'gr', 'gr', 'caliper', 'caliper', 'caliper', 'gr', 'caliper', 'caliper']"
+684,file685,WELLS,2,"['gr', 'gr']"
+685,file686,CHECK MANUALLY,0,
+686,file687,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+687,file688,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+688,file689,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+689,file690,CHECK MANUALLY,0,
+690,file691,CHECK MANUALLY,0,
+691,file692,CHECK MANUALLY,0,
+692,file693,WELLS,1,['cali']
+693,file694,WELLS,1,['cali']
+694,file695,CHECK MANUALLY,0,
+695,file696,CHECK MANUALLY,0,
+696,file697,WELLS,1,['cali']
+697,file698,WELLS,1,['cali']
+698,file699,CHECK MANUALLY,0,
+699,file700,CHECK MANUALLY,0,
+700,file701,WELLS,1,['cali']
+701,file702,CHECK MANUALLY,0,
+702,file703,WELLS,1,['gr']
+703,file704,WELLS,20,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+704,file705,WELLS,20,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+705,file706,CHECK MANUALLY,0,
+706,file707,CHECK MANUALLY,0,
+707,file708,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+708,file709,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+709,file710,CHECK MANUALLY,0,
+710,file711,CHECK MANUALLY,0,
+711,file712,CHECK MANUALLY,0,
+712,file713,CHECK MANUALLY,0,
+713,file714,CHECK MANUALLY,0,
+714,file715,CHECK MANUALLY,0,
+715,file716,CHECK MANUALLY,0,
+716,file717,CHECK MANUALLY,0,
+717,file718,WELLS,3,"['cal', 'gr', 'cali']"
+718,file719,CHECK MANUALLY,0,
+719,file720,WELLS,1,['gamma']
+720,file721,WELLS,1,['azimuth']
+721,file722,WELLS,4,"['sonic', 'gr', 'sonic', 'resistivity']"
+722,file723,CHECK MANUALLY,0,
+723,file724,CHECK MANUALLY,0,
+724,file725,CHECK MANUALLY,0,
+725,file726,CHECK MANUALLY,0,
+726,file727,CHECK MANUALLY,0,
+727,file728,CHECK MANUALLY,0,
+728,file729,CHECK MANUALLY,0,
+729,file730,CHECK MANUALLY,0,
+730,file731,CHECK MANUALLY,0,
+731,file732,CHECK MANUALLY,0,
+732,file733,CHECK MANUALLY,0,
+733,file734,CHECK MANUALLY,0,
+734,file735,CHECK MANUALLY,0,
+735,file736,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+736,file737,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+737,file738,WELLS,114,"['cal', 'cali', 'cal', 'cali', 'cal', 'cal', 'cali', 'cal', 'cali', 'cali', 'cali', 'cal', 'cal', 'cal', 'cal', 'cali', 'cal', 'cali', 'cal', 'cal', 'cal', 'cal', 'cal', 'gr', 'cal', 'cal', 'cal', 'gr', 'cali', 'cal', 'cali', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'gr', 'cali', 'cal', 'cal', 'cali', 'cali', 'cal', 'cal', 'cal', 'cal', 'cal', 'gr', 'cal', 'cal', 'cal', 'cal', 'gr', 'gr', 'cal', 'cal', 'cal', 'cal', 'gr', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'gr', 'cal', 'cal', 'cal', 'cal', 'gr', 'cal', 'gr', 'cal', 'cal', 'gr', 'cali', 'cal', 'cal', 'cal', 'cal', 'cal', 'cali', 'cali', 'cali', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'cal', 'gr', 'cal', 'gr']"
+738,file739,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+739,file740,CHECK MANUALLY,0,
+740,file741,WELLS,1,['azimuth']
+741,file742,CHECK MANUALLY,0,
+742,file743,CHECK MANUALLY,0,
+743,file744,CHECK MANUALLY,0,
+744,file745,LOT,14,"['formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test', 'formation limit test']"
+745,file746,WELLS,2,"['mud weight', 'mud weight']"
+746,file747,GEOMECH,7,"['stress', 'stress', 'maximum horizontal stress', 'minimum horizontal stress', 'maximum horizontal stress', 'stress', 'stress']"
+747,file748,CHECK MANUALLY,0,
+748,file749,GEOMECH,5,"['stress', 'stress', 'stress', 'stress', 'stress']"
+749,file750,WELLS,24,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+750,file751,WELLS,24,"['northing', 'latitude ', 'easting', 'longitude', 'northing', 'latitude ', 'easting', 'longitude', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting', 'latitude ', 'longitude', 'northing', 'easting']"
+751,file752,CHECK MANUALLY,0,
+752,file753,CHECK MANUALLY,0,
+753,file754,CHECK MANUALLY,0,
+754,file755,CHECK MANUALLY,0,
+755,file756,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+756,file757,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+757,file758,GEOMECH,4,"['youngs', 'cohesion', 'shmin', 'shmax']"
+758,file759,CHECK MANUALLY,0,
+759,file760,CHECK MANUALLY,0,
+760,file761,GEOMECH,1,['cm']
+761,file762,CHECK MANUALLY,0,
+762,file763,WELLS,1,['cali']
+763,file764,CHECK MANUALLY,0,
+764,file765,CHECK MANUALLY,0,
+765,file766,WELLS,4,"['cali', 'gr', 'den', 'neu']"
+766,file767,WELLS,4,"['gr', 'cali', 'den', 'neu']"
