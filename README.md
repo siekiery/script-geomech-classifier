@@ -1,5 +1,7 @@
 # Geomech Classifier script
-### Author: Jakub Pitera 
+### Demo version for GitHub
+### Developed by: Jakub Pitera 
+
 
 Script for file classification based on the contents.  
 It was used to classify 86,000 files from geomechanics domain.
